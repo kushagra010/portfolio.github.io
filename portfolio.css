@@ -392,6 +392,9 @@ header nav .right a{
 	.about-details{
 		max-width: 410px;
 	}
+	.about-details i{
+		font-size: 2.6rem;
+	}
 	.about-details p{
 		font-size: 1.2rem;
 	}
@@ -419,9 +422,6 @@ header nav .right a{
 	.project-image img {
     	max-width: 500px;
 	}
-	/*.project-info{
-		min-height: 300px;
-	}*/
 	.project-details{
 		max-width: 430px;
 	}
@@ -439,10 +439,10 @@ header nav .right a{
 		text-align: center;
 	}
 	.description .right h1 {
-    font-size: 3rem;
+    	font-size: 3rem;
 	}
 	.description .right h6 {
-    font-size: 1.4rem;
+    	font-size: 1.4rem;
 	}
 	.about-me{
 		flex-direction: column;
@@ -544,6 +544,9 @@ header nav .right a{
 	.about-details p{
 		font-size: 1.1rem;
 	}
+	.about-details i{
+		font-size: 2.3rem;
+	}
 	.project-image{
 		max-height: 266.4px;
 	}
@@ -592,6 +595,9 @@ header nav .right a{
 	.about-details{
 		max-width: 230px;
 		padding: 1rem 0;
+	}
+	.about-details i{
+		font-size: 1.9rem;
 	}
 	.about-details h3{
 		padding: 0.6rem 0;
