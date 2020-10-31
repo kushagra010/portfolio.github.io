@@ -435,7 +435,8 @@ header nav .right a{
 		width: 230px;
 	}
 	.description .right{
-		padding-bottom: 1.4rem;
+		padding: 0 10px 1.4rem 10px;
+		/* padding-bottom: 1.4rem; */
 		text-align: center;
 	}
 	.description .right h1 {
